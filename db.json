@@ -125,12 +125,12 @@
     {
       "name": "Parkson",
       "Active": 5,
-      "close": 4,
+      "closed": 4,
       "New": 4,
       "won": 12
     },
     {
-      "name": "Folunrosho",
+      "name": "Alex",
       "Active": 7,
       "closed": 4,
       "New": 5,
@@ -234,12 +234,12 @@
     {
       "name": "Parkson",
       "Active": 5,
-      "close": 4,
+      "closed": 4,
       "New": 4,
       "won": 12
     },
     {
-      "name": "Folunrosho",
+      "name": "Alex",
       "Active": 7,
       "closed": 14,
       "New": 15,
@@ -344,12 +344,12 @@
     {
       "name": "Parkson",
       "Active": 5,
-      "close": 4,
+      "closed": 4,
       "New": 4,
       "won": 12
     },
     {
-      "name": "Folunrosho",
+      "name": "Alex",
       "Active": 7,
       "closed": 4,
       "New": 5,
@@ -555,12 +555,12 @@
     {
       "name": "Parkson",
       "Active": 5,
-      "close": 4,
+      "closed": 4,
       "New": 4,
       "won": 12
     },
     {
-      "name": "Folunrosho",
+      "name": "Alex",
       "Active": 7,
       "closed": 14,
       "New": 15,
@@ -644,7 +644,7 @@
     {
       "name": "Parkson",
       "Active": 15,
-      "close": 14,
+      "closed": 14,
       "New": 4,
       "won": 18
     },
