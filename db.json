@@ -3,7 +3,7 @@
     {
       "name": "Parkson",
       "Active": 15,
-      "close": 14,
+      "closed": 14,
       "New": 4,
       "won": 18
     },
@@ -435,13 +435,7 @@
     }
   ],
   "may": [
-    {
-      "name": "Parkson",
-      "Active": 15,
-      "close": 14,
-      "New": 4,
-      "won": 18
-    },
+   
     {
       "name": "Mark",
       "Active": 12,
@@ -622,13 +616,7 @@
       "New": 17,
       "won": 12
     },
-    {
-      "name": "Yusuf",
-      "Active": 8,
-      "closed": 19,
-      "New": 5,
-      "won": 20
-    },
+   
     {
       "name": "adeleke",
       "Active": 8,
@@ -743,13 +731,6 @@
       "closed": 9,
       "New": 5,
       "won": 19
-    },
-    {
-      "name": "adeleke",
-      "Active": 8,
-      "closed": 5,
-      "New": 5,
-      "won": 12
     },
     {
       "name": "Akpata",
